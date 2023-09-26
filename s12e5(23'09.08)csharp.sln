@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33529.622
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{32ABC4EC-25B2-49D2-BCC3-54FF86049485}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "korkerter", "test\korkerter.csproj", "{32ABC4EC-25B2-49D2-BCC3-54FF86049485}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test2", "test2\test2.csproj", "{BD987181-6760-43B0-A369-C79631403E6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "korkerter UnitTest", "korkerter UnitTest\korkerter UnitTest.csproj", "{FA783257-BB9B-4A3A-AFFD-2BCC1560ED64}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{BD987181-6760-43B0-A369-C79631403E6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD987181-6760-43B0-A369-C79631403E6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD987181-6760-43B0-A369-C79631403E6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA783257-BB9B-4A3A-AFFD-2BCC1560ED64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA783257-BB9B-4A3A-AFFD-2BCC1560ED64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA783257-BB9B-4A3A-AFFD-2BCC1560ED64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA783257-BB9B-4A3A-AFFD-2BCC1560ED64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
